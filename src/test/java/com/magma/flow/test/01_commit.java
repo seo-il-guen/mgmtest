@@ -8,6 +8,7 @@ class FlowTestApplicationTests4 {
 
 	@Test
 	void contextLoads() {
+		// 브런치와 충돌가능
 	}
 
 }
